@@ -1,4 +1,4 @@
-# MVVM Notes App
+# Notes app
 
 Simple notes app for Android.
 
